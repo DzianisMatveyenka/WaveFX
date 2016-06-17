@@ -10,6 +10,7 @@ public class SimpleObject {
         this.a = builder.a;
         this.b = builder.b;
         this.c = builder.c;
+        
     }
 
     public static Builder newBuilder() {
