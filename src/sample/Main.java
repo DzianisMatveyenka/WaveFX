@@ -35,9 +35,6 @@ public class Main extends Application {
         addWaveButton.setAlignment(Pos.CENTER);
         root.add(addWaveButton, 0, 0);
         GridPane.setHalignment(addWaveButton, HPos.CENTER);
-
-
-
         GridPane waveField = new GridPane();
         root.add(waveField, 0, 1);
         waveField.setPadding(new Insets(5));
