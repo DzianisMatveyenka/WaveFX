@@ -41,6 +41,8 @@ public class SubBase extends Base {
 
     private void test1() {
         System.out.println("master");
+        System.out.println("test_br");
+        System.out.println("it's OK!");
     }
 
 }
