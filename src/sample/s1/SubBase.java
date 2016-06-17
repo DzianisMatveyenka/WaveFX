@@ -40,7 +40,7 @@ public class SubBase extends Base {
     }
 
     private void test1() {
-        
+        System.out.println("master");
     }
 
 }
