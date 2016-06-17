@@ -39,4 +39,8 @@ public class SubBase extends Base {
         System.out.println("integer");
     }
 
+    private void test1() {
+        
+    }
+
 }
