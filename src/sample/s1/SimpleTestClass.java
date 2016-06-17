@@ -7,6 +7,6 @@ public class SimpleTestClass {
     }
 
     private void test() {
-
+        System.out.println("simple");
     }
 }
