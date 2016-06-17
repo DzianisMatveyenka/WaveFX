@@ -17,6 +17,7 @@ public class Controller {
         private static Controller getInstance() {
             b = 5;
             return new Controller();
+            // changes in master branch
         }
 
         private void sadf() {
