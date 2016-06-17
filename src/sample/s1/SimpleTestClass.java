@@ -5,4 +5,8 @@ public class SimpleTestClass {
     public SimpleTestClass() {
 
     }
+
+    private void test() {
+        
+    }
 }
